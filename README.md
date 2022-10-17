@@ -1,0 +1,2 @@
+# İskurOdevler
+ SinemaOtomasyonuScriptVeFonksiyonlariİleÖdev
